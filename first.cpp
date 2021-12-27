@@ -3,6 +3,6 @@ using namespace std;
 
 int main(){
 
-  cout << "Hello,GitHub!" << emdl;
+  cout << "Hello,GitHub!" << endl;
 
 }
